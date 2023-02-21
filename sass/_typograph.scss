@@ -1,0 +1,29 @@
+ .header_text {
+    .header_txt {
+        text-align: center;
+        font-family:'Barlow', sans-serif;
+        font-weight: 700;
+        letter-spacing: 0.5rem;
+        color: aliceblue;
+        font-size: 5rem;
+        padding-top: 9rem;
+        span {
+            display: block;
+            letter-spacing: 0.8rem;
+        }
+    }
+  
+ }
+
+ h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family:'Barlow', sans-serif; 
+ }
+ 
+ p {
+    text-align: justify;
+    padding: 6rem;
+    font-size: 1.4rem;
+    text-align-last: center;
+ }
